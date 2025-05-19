@@ -48,7 +48,7 @@ if 'appointment_details' not in st.session_state:
         'phone': None
     }
 
-# Sample appointment database (in production use a real database)
+# Sample appointment database
 appointment_db = {}
 
 # Function to check appointment availability
